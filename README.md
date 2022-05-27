@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Korrigierer
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Flutter, Python, Discord Bots, Unity, Unreal
+- 🌱 I’m currently learning Discord Py
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
